@@ -1,0 +1,5 @@
+{
+	"first_name":"{{Input1.text}}",
+	"last_name":"{{Input2.text}}",
+	"email":"{{Input3.text}}"
+}
