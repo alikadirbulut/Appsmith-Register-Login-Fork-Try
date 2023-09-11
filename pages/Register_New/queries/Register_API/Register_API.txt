@@ -1,5 +1,5 @@
 {
-	"first_name":"{{Input1.text}}",
-	"last_name":"{{Input2.text}}",
-	"email":"{{Input3.text}}"
+	"name":"{{Input1.text}}",
+	"email":"{{Input2.text}}",
+	"password":"{{Input3.text}}"
 }

@@ -7,6 +7,10 @@
     {
       "id": "Users",
       "isDefault": false
+    },
+    {
+      "id": "Login",
+      "isDefault": false
     }
   ],
   "viewMode": false,
