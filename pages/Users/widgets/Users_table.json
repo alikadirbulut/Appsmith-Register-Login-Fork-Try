@@ -56,10 +56,10 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1694438031095,
+    "columnUpdatedAt": 1694455436713,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 32,
-    "widgetName": "Table1",
+    "widgetName": "Users_table",
     "defaultPageSize": 0,
     "columnOrder": [
         "name",
@@ -78,7 +78,7 @@
     "borderWidth": "1",
     "primaryColumns": {
         "password": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"password\"]))}}",
+            "computedValue": "{{Users_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"password\"]))}}",
             "isEditable": false,
             "alias": "password",
             "enableSort": true,
@@ -108,7 +108,7 @@
             "verticalAlignment": "CENTER"
         },
         "name": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"name\"]))}}",
+            "computedValue": "{{Users_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"name\"]))}}",
             "isEditable": false,
             "alias": "name",
             "enableSort": true,
@@ -138,7 +138,7 @@
             "verticalAlignment": "CENTER"
         },
         "email": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"email\"]))}}",
+            "computedValue": "{{Users_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"email\"]))}}",
             "isEditable": false,
             "alias": "email",
             "enableSort": true,

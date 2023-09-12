@@ -1,5 +1,0 @@
-{
-	"name":"{{Input1.text}}",
-	"email":"{{Input2.text}}",
-	"password":"{{Input3.text}}"
-}

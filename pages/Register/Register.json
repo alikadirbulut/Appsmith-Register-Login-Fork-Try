@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Register_New",
-    "slug": "register-new",
+    "name": "Register",
+    "slug": "register",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 480,
+          "bottomRow": 450,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Register_New",
+        "id": "Register",
         "deleted": false,
         "policies": [],
         "userPermissions": []
